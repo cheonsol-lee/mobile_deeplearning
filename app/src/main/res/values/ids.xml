@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_train" type="id" />
+    <item name="tv_train_set" type="id" />
+
+    <item name="btn_train_100" type="id" />
+    <item name="btn_train_200" type="id" />
+    <item name="btn_train_300" type="id" />
+    <item name="btn_train_400" type="id" />
+    <item name="btn_train_500" type="id" />
+    <item name="btn_train_600" type="id" />
+
+    <item name="tv_test" type="id" />
+
+    <item name="btn_num_0" type="id" />
+    <item name="btn_num_1" type="id" />
+    <item name="btn_num_2" type="id" />
+    <item name="btn_num_3" type="id" />
+    <item name="btn_num_4" type="id" />
+    <item name="btn_num_5" type="id" />
+    <item name="btn_num_6" type="id" />
+    <item name="btn_num_7" type="id" />
+    <item name="btn_num_8" type="id" />
+    <item name="btn_num_9" type="id" />
+
+
+    <item name="tv_button" type="id" />
+    <item name="btn_start" type="id" />
+    <item name="btn_reset" type="id" />
+
+    <item name="tv_probability" type="id" />
+
+    <item name="tv_num_0" type="id" />
+    <item name="tv_num_1" type="id" />
+    <item name="tv_num_2" type="id" />
+    <item name="tv_num_3" type="id" />
+    <item name="tv_num_4" type="id" />
+    <item name="tv_num_5" type="id" />
+    <item name="tv_num_6" type="id" />
+    <item name="tv_num_7" type="id" />
+    <item name="tv_num_8" type="id" />
+    <item name="tv_num_9" type="id" />
+
+    <item name="tv_prob_0" type="id" />
+    <item name="tv_prob_1" type="id" />
+    <item name="tv_prob_2" type="id" />
+    <item name="tv_prob_3" type="id" />
+    <item name="tv_prob_4" type="id" />
+    <item name="tv_prob_5" type="id" />
+    <item name="tv_prob_6" type="id" />
+    <item name="tv_prob_7" type="id" />
+    <item name="tv_prob_8" type="id" />
+    <item name="tv_prob_9" type="id" />
+
+
+    <item name="view_1" type="id" />
+    <item name="view_2" type="id" />
+    <item name="view_3" type="id" />
+    <item name="view_4" type="id" />
+    <item name="view_5" type="id" />
+
+
+
+
+
+
+    <item name="tv_result_number" type="id" />
+    <item name="tv_result" type="id" />
+
+
+</resources>

@@ -27,6 +27,7 @@ import java.util.List;
  * Date : 2020.03.01 04:57
  * Copywrite : Cheonsol Lee
  * Contents : Mobile DeepLearning
+ * Modified : btn_400  break add
  *
  * */
 
@@ -150,6 +151,7 @@ public class MainActivity extends AppCompatActivity {
                     defaultTrainButtonColor();
                     btn_train_400.setBackgroundColor(Color.RED);
                     trainState = "400";
+                    break;
                 }
                 case R.id.btn_train_500: {
                     defaultTrainButtonColor();
